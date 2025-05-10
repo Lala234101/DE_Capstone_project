@@ -1,0 +1,101 @@
+treatment_id,treatment_code,description,cost,duration_minutes,is_active
+9000,TX400,Cardiac Consultation,200.0,60,True
+9001,TX400,Cardiac Consultation,200.0,30,True
+9002,TX200,MRI Scan,450.0,30,True
+9003,TX400,Cardiac Consultation,200.0,60,True
+9004,TX500,Minor Surgical Procedure,1200.0,120,True
+9005,TX200,MRI Scan,450.0,120,True
+9006,TX100,Physical Therapy Session,150.0,60,True
+9007,TX300,Blood Test Panel,85.0,90,True
+9008,TX500,Minor Surgical Procedure,1200.0,90,True
+9009,TX200,MRI Scan,450.0,90,True
+9010,TX300,Blood Test Panel,85.0,120,False
+9011,TX200,MRI Scan,450.0,120,True
+9012,TX500,Minor Surgical Procedure,1200.0,60,True
+9013,TX500,Minor Surgical Procedure,1200.0,30,True
+9014,TX100,Physical Therapy Session,150.0,120,False
+9015,TX200,MRI Scan,450.0,120,True
+9016,TX200,MRI Scan,450.0,60,True
+9017,TX400,Cardiac Consultation,200.0,120,True
+9018,TX200,MRI Scan,450.0,30,True
+9019,TX200,MRI Scan,450.0,45,True
+9020,TX100,Physical Therapy Session,150.0,90,True
+9021,TX200,MRI Scan,450.0,60,True
+9022,TX300,Blood Test Panel,85.0,30,True
+9023,TX500,Minor Surgical Procedure,1200.0,90,True
+9024,TX100,Physical Therapy Session,150.0,45,True
+9025,TX400,Cardiac Consultation,200.0,60,True
+9026,TX400,Cardiac Consultation,200.0,30,True
+9027,TX100,Physical Therapy Session,150.0,60,False
+9028,TX100,Physical Therapy Session,150.0,120,True
+9029,TX300,Blood Test Panel,85.0,90,True
+9030,TX200,MRI Scan,450.0,120,False
+9031,TX300,Blood Test Panel,85.0,45,False
+9032,TX400,Cardiac Consultation,200.0,30,True
+9033,TX400,Cardiac Consultation,200.0,120,False
+9034,TX400,Cardiac Consultation,200.0,120,True
+9035,TX100,Physical Therapy Session,150.0,45,False
+9036,TX500,Minor Surgical Procedure,1200.0,45,True
+9037,TX400,Cardiac Consultation,200.0,30,False
+9038,TX100,Physical Therapy Session,150.0,90,True
+9039,TX100,Physical Therapy Session,150.0,60,False
+9040,TX100,Physical Therapy Session,150.0,90,True
+9041,TX200,MRI Scan,450.0,120,True
+9042,TX100,Physical Therapy Session,150.0,90,True
+9043,TX200,MRI Scan,450.0,90,True
+9044,TX500,Minor Surgical Procedure,1200.0,30,True
+9045,TX300,Blood Test Panel,85.0,45,True
+9046,TX500,Minor Surgical Procedure,1200.0,45,True
+9047,TX100,Physical Therapy Session,150.0,45,True
+9048,TX500,Minor Surgical Procedure,1200.0,45,False
+9049,TX500,Minor Surgical Procedure,1200.0,120,True
+9050,TX100,Physical Therapy Session,150.0,90,True
+9051,TX500,Minor Surgical Procedure,1200.0,45,True
+9052,TX100,Physical Therapy Session,150.0,60,True
+9053,TX500,Minor Surgical Procedure,1200.0,60,True
+9054,TX500,Minor Surgical Procedure,1200.0,30,True
+9055,TX400,Cardiac Consultation,200.0,45,True
+9056,TX400,Cardiac Consultation,200.0,60,True
+9057,TX400,Cardiac Consultation,200.0,45,True
+9058,TX400,Cardiac Consultation,200.0,30,True
+9059,TX500,Minor Surgical Procedure,1200.0,120,True
+9060,TX300,Blood Test Panel,85.0,90,True
+9061,TX100,Physical Therapy Session,150.0,90,True
+9062,TX500,Minor Surgical Procedure,1200.0,60,True
+9063,TX300,Blood Test Panel,85.0,60,True
+9064,TX100,Physical Therapy Session,150.0,90,True
+9065,TX500,Minor Surgical Procedure,1200.0,30,True
+9066,TX200,MRI Scan,450.0,90,True
+9067,TX400,Cardiac Consultation,200.0,120,True
+9068,TX100,Physical Therapy Session,150.0,120,False
+9069,TX200,MRI Scan,450.0,120,True
+9070,TX500,Minor Surgical Procedure,1200.0,45,True
+9071,TX300,Blood Test Panel,85.0,30,False
+9072,TX300,Blood Test Panel,85.0,90,False
+9073,TX200,MRI Scan,450.0,90,True
+9074,TX300,Blood Test Panel,85.0,30,True
+9075,TX300,Blood Test Panel,85.0,60,True
+9076,TX200,MRI Scan,450.0,120,True
+9077,TX200,MRI Scan,450.0,45,True
+9078,TX400,Cardiac Consultation,200.0,90,True
+9079,TX300,Blood Test Panel,85.0,60,True
+9080,TX200,MRI Scan,450.0,60,True
+9081,TX500,Minor Surgical Procedure,1200.0,90,True
+9082,TX300,Blood Test Panel,85.0,60,True
+9083,TX400,Cardiac Consultation,200.0,120,True
+9084,TX200,MRI Scan,450.0,120,True
+9085,TX200,MRI Scan,450.0,45,True
+9086,TX400,Cardiac Consultation,200.0,90,True
+9087,TX500,Minor Surgical Procedure,1200.0,30,True
+9088,TX500,Minor Surgical Procedure,1200.0,90,True
+9089,TX100,Physical Therapy Session,150.0,45,True
+9090,TX500,Minor Surgical Procedure,1200.0,60,True
+9091,TX300,Blood Test Panel,85.0,60,True
+9092,TX400,Cardiac Consultation,200.0,45,True
+9093,TX500,Minor Surgical Procedure,1200.0,90,True
+9094,TX100,Physical Therapy Session,150.0,90,True
+9095,TX400,Cardiac Consultation,200.0,45,True
+9096,TX200,MRI Scan,450.0,30,True
+9097,TX300,Blood Test Panel,85.0,120,True
+9098,TX400,Cardiac Consultation,200.0,60,True
+9099,TX400,Cardiac Consultation,200.0,60,True
