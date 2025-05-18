@@ -20,12 +20,11 @@ Enabling scalable and secure analytics through cloud integration.
 
 # 🔧 Tech Stack
 
-Layer	Tools/Technologies
-Database	PostgreSQL (Azure Database for PostgreSQL)
-Pipeline	Python, Azure Data Factory (or Airflow)
+
+PostgreSQL (Azure Database for PostgreSQL)
+Python, Azure Data Factory (or Airflow)
 Cloud	Microsoft Azure (Blob Storage, ADF, PostgreSQL)
-Language	SQL, Python
-Orchestration	Azure Data Factory Pipelines (or Airflow)
+Azure Data Factory Pipelines (or Airflow)
 
 # 🗃️ Project Components
 
