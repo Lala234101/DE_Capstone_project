@@ -1,6 +1,7 @@
 # DE_Capstone_project
 
-# 🏥 Cloud-Based Healthcare Data Integration System
+# Impact Healthcare Inc. Data Integration System
+
 # 📌 Project Overview
 This capstone project presents a cloud-focused data system built for the healthcare industry, designed to resolve the challenge of fragmented client data systems. The goal is to integrate disparate healthcare data sources—such as patient demographics, appointments, and treatment records—into a unified system hosted on Microsoft Azure.
 
